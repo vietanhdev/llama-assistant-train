@@ -1,0 +1,7 @@
+*.pyc
+*.pyd
+/wandb
+/outputs
+/lora_model
+/llama-3.2-1B-finetuned-*
+/_unsloth_*
